@@ -34,10 +34,10 @@ projects[chosen][subdir] = "contrib"
 projects[chosen][version] = "2.0-beta4"
 
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.13"
+projects[ckeditor][version] = "1.14"
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = "2.5"
+projects[colorbox][version] = "2.6"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.4"
@@ -58,7 +58,7 @@ projects[echo][subdir] = "contrib"
 projects[echo][version] = "1.9"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.4"
+projects[entity][version] = "1.5"
 
 projects[entityreference][subdir] = "contrib"
 projects[entityreference][version] = "1.1"
@@ -67,13 +67,13 @@ projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entityreference_prepopulate][version] = "1.5"
 
 projects[entityreference_view_widget][subdir] = "contrib"
-projects[entityreference_view_widget][version] = "2.0-alpha2"
+projects[entityreference_view_widget][version] = "2.0-beta3"
 
 projects[eva][subdir] = "contrib"
 projects[eva][version] = "1.2"
 
 projects[extlink][subdir] = "contrib"
-projects[extlink][version] = "1.13"
+projects[extlink][version] = "1.17"
 
 projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.3"
@@ -89,7 +89,7 @@ projects[field_extractor][subdir] = "contrib"
 projects[field_extractor][version] = "1.3"
 
 projects[field_group][subdir] = "contrib"
-projects[field_group][version] = "1.3"
+projects[field_group][version] = "1.4"
 
 projects[field_permissions][subdir] = "contrib"
 projects[field_permissions][version] = "1.0-beta2"
@@ -119,7 +119,7 @@ projects[imagefield_focus][subdir] = "contrib"
 projects[imagefield_focus][version] = "1.0"
 
 projects[imce][subdir] = "contrib"
-projects[imce][version] = "1.8"
+projects[imce][version] = "1.9"
 
 projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
@@ -137,7 +137,7 @@ projects[logintoboggan][subdir] = "contrib"
 projects[logintoboggan][version] = "1.3"
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = "2.12"
+projects[mailchimp][version] = "3.1"
 
 projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
@@ -161,7 +161,7 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
 projects[print][subdir] = "contrib"
-projects[print][version] = "1.2"
+projects[print][version] = "2.0"
 
 projects[privatemsg][subdir] = "contrib"
 projects[privatemsg][version] = "1.4"
@@ -176,13 +176,13 @@ projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-rc1"
 
 projects[rules][subdir] = "contrib"
-projects[rules][version] = "2.6"
+projects[rules][version] = "2.7"
 
 projects[search_api][subdir] = "contrib"
-projects[search_api][version] = "1.11"
+projects[search_api][version] = "1.12"
 
 projects[search_api_db][subdir] = "contrib"
-projects[search_api_db][version] = "1.2"
+projects[search_api_db][version] = "1.3"
 
 projects[search_api_ranges][subdir] = "contrib"
 projects[search_api_ranges][version] = "1.5"
@@ -221,13 +221,13 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
 projects[variable][subdir] = "contrib"
-projects[variable][version] = "2.4"
+projects[variable][version] = "2.5"
 
 projects[variable_email][subdir] = "contrib"
 projects[variable_email][version] = "1.0-alpha1"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.7"
+projects[views][version] = "3.8"
 
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.2"
