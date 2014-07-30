@@ -220,6 +220,9 @@ projects[title][version] = "1.0-alpha7"
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
+projects[typogrify][subdir] = "contrib"
+projects[typogrify][version] = "1.0-rc8"
+
 projects[variable][subdir] = "contrib"
 projects[variable][version] = "2.5"
 
