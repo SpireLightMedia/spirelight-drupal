@@ -157,6 +157,9 @@ projects[metatag][version] = "1.0-beta9"
 projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
 
+projects[nodequeue][subdir] = "contrib"
+projects[nodequeue][version] = "2.0-beta1"
+
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
