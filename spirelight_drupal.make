@@ -42,9 +42,6 @@ projects[colorbox][version] = "2.7"
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.4"
 
-projects[date][subdir] = "contrib"
-projects[date][version] = "2.8"
-
 projects[delta][subdir] = "contrib"
 projects[delta][version] = "3.0-beta11"
 
