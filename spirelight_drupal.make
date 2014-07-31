@@ -25,25 +25,25 @@ projects[better_formats][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 
 projects[boxes][subdir] = "contrib"
-projects[boxes][version] = "1.1"
+projects[boxes][version] = "1.2"
 
 projects[captcha][subdir] = "contrib"
-projects[captcha][version] = "1.0"
+projects[captcha][version] = "1.1"
 
 projects[chosen][subdir] = "contrib"
 projects[chosen][version] = "2.0-beta4"
 
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.14"
+projects[ckeditor][version] = "1.15"
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = "2.6"
+projects[colorbox][version] = "2.7"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.4"
 
 projects[date][subdir] = "contrib"
-projects[date][version] = "2.7"
+projects[date][version] = "2.8"
 
 projects[delta][subdir] = "contrib"
 projects[delta][version] = "3.0-beta11"
@@ -67,20 +67,19 @@ projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entityreference_prepopulate][version] = "1.5"
 
 projects[entityreference_view_widget][subdir] = "contrib"
-projects[entityreference_view_widget][version] = "2.0-beta3"
+projects[entityreference_view_widget][version] = "2.0-rc1"
 
 projects[eva][subdir] = "contrib"
 projects[eva][version] = "1.2"
 
 projects[extlink][subdir] = "contrib"
-projects[extlink][version] = "1.17"
+projects[extlink][version] = "1.18"
 
 projects[facetapi][subdir] = "contrib"
-projects[facetapi][version] = "1.3"
-projects[facetapi][patch][] = "http://drupal.org/files/1616518-7-show-active-term.patch"
+projects[facetapi][version] = "1.5"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.0"
+projects[features][version] = "2.1"
 
 projects[fences][subdir] = "contrib"
 projects[fences][version] = "1.0"
@@ -104,7 +103,7 @@ projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.5"
 
 projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = "1.4"
+projects[google_analytics][version] = "2.0"
 
 projects[htmlmail][subdir] = "contrib"
 projects[htmlmail][version] = "2.65"
@@ -134,7 +133,7 @@ projects[link][subdir] = "contrib"
 projects[link][version] = "1.2"
 
 projects[logintoboggan][subdir] = "contrib"
-projects[logintoboggan][version] = "1.3"
+projects[logintoboggan][version] = "1.4"
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = "3.1"
@@ -152,7 +151,7 @@ projects[message_notify][subdir] = "contrib"
 projects[message_notify][version] = "2.5"
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = "1.0-beta9"
+projects[metatag][version] = "1.0-rc1"
 
 projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
@@ -182,7 +181,7 @@ projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.7"
 
 projects[search_api][subdir] = "contrib"
-projects[search_api][version] = "1.12"
+projects[search_api][version] = "1.13"
 
 projects[search_api_db][subdir] = "contrib"
 projects[search_api_db][version] = "1.3"
@@ -261,8 +260,8 @@ projects[xmlsitemap][version] = "2.0"
 ; --------
 
 projects[omega][version] = 4.2
-projects[zen][version] = 5.4
-projects[shiny][version] = 1.4
+projects[zen][version] = 5.5
+projects[shiny][version] = 1.5
 
 ; Libraries
 ; ---------
