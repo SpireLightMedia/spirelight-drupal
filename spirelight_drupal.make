@@ -37,7 +37,7 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.15"
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = "2.7"
+projects[colorbox][version] = "2.8"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.4"
@@ -64,7 +64,7 @@ projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entityreference_prepopulate][version] = "1.5"
 
 projects[entityreference_view_widget][subdir] = "contrib"
-projects[entityreference_view_widget][version] = "2.0-rc1"
+projects[entityreference_view_widget][version] = "2.0-rc3"
 
 projects[eva][subdir] = "contrib"
 projects[eva][version] = "1.2"
@@ -76,7 +76,7 @@ projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.5"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.1"
+projects[features][version] = "2.2"
 
 projects[fences][subdir] = "contrib"
 projects[fences][version] = "1.0"
@@ -148,7 +148,7 @@ projects[message_notify][subdir] = "contrib"
 projects[message_notify][version] = "2.5"
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = "1.0-rc1"
+projects[metatag][version] = "1.1"
 
 projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
@@ -181,7 +181,7 @@ projects[search_api][subdir] = "contrib"
 projects[search_api][version] = "1.13"
 
 projects[search_api_db][subdir] = "contrib"
-projects[search_api_db][version] = "1.3"
+projects[search_api_db][version] = "1.4"
 
 projects[search_api_ranges][subdir] = "contrib"
 projects[search_api_ranges][version] = "1.5"
@@ -220,7 +220,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
 projects[typogrify][subdir] = "contrib"
-projects[typogrify][version] = "1.0-rc8"
+projects[typogrify][version] = "1.0-rc9"
 
 projects[variable][subdir] = "contrib"
 projects[variable][version] = "2.5"
@@ -235,14 +235,14 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.2"
 
 projects[views_megarow][subdir] = "contrib"
-projects[views_megarow][version] = "1.3"
+projects[views_megarow][version] = "1.4"
 
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.1"
 projects[views_slideshow][patch][] = "https://www.drupal.org/files/issues/views_slideshow-rename_makefile-1330166-16.patch"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "3.20"
+projects[webform][version] = "4.0"
 
 projects[wysiwyg_filter][subdir] = "contrib"
 projects[wysiwyg_filter][version] = "1.6-rc2"
