@@ -179,6 +179,7 @@ projects[redirect][version] = "1.0-rc1"
 
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.8"
+projects[rules][patch][] = "https://www.drupal.org/files/issues/Rules-integration-1653542-11.patch"
 
 projects[search_api][subdir] = "contrib"
 projects[search_api][version] = "1.14"
