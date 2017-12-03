@@ -285,6 +285,7 @@ libraries[jquery.cycle][download][type] = "git"
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
+libraries[jquery.cycle][download][tag] = "2.0.9"
 
 libraries[jquery.imagesloaded][download][type] = "git"
 libraries[jquery.imagesloaded][download][url] = "git://github.com/desandro/imagesloaded.git"
